@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0744-network-delay-time](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0854-making-a-large-island](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0744-network-delay-time](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0854-making-a-large-island](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0854-making-a-large-island](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -41,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0854-making-a-large-island](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0854-making-a-large-island](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
