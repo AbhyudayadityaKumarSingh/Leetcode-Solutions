@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0542-01-matrix](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0542-01-matrix](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0542-01-matrix](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Hash Table
 |  |
