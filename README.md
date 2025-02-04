@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1558-course-schedule-iv](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1558-course-schedule-iv](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
@@ -69,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## String
 |  |
@@ -96,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1753-path-with-minimum-effort](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
@@ -118,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+## Binary Search
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
