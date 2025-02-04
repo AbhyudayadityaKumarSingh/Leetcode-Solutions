@@ -4,35 +4,42 @@ public:
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
         int m = grid.size() ;
         int n = grid[0].size() ;
-        if (m == 0 || n == 0 || grid[0][0] == 1 || grid[m - 1][n - 1] == 1) return -1;
-        queue <pair<int,int>> q ;
+        if (m == 0 || n == 0 || grid[0][0] == 1) return -1;
+        
         auto isSafe =[&](int x , int y) {
             return x>=0 && x<m && y>=0 && y<n;
         } ;
        
-        q.push({0,0}) ;
-        grid[0][0] = 1 ;
-        int cnt = 1;
-        while(!q.empty()) {
-            int size = q.size() ;
-            while(size--) {
-                int x = q.front().first ;
-                int y = q.front().second ;
-                q.pop() ;
+        priority_queue <pair<int, pair<int,int>> , vector<pair<int, pair<int,int>>> , greater<pair<int, pair<int,int>>>> pq;
+        vector<vector<int>> result(m,vector<int>(n,INT_MAX)) ;
+      pq.push({0, {0, 0}});
+        result[0][0] = 0;
+  
+        while(!pq.empty()) {
+            int d  = pq.top().first;
+	    pair<int, int> node = pq.top().second;
+	    pq.pop();
 
-                if(x==m-1 and y==n-1) return cnt ;
+            int x = node.first;
+            int y = node.second;
+            
+	    for(auto dir:directions) {
+		int x_   = x + dir[0];
+		int y_   = y + dir[1];
+		int dist = 1;
 
-                for(auto &dir : directions) {
-                    int newx = x + dir[0] ;
-                    int newy = y + dir[1] ;
-                    if(isSafe(newx,newy) and grid[newx][newy] == 0) {
-                        q.push({newx,newy}) ;
-                        grid[newx][newy] = 1 ;
-                    }
-                }
+		if(isSafe(x_, y_) && grid[x_][y_] == 0 && d+dist < result[x_][y_]) {
+		    pq.push({d+dist, {x_, y_}});
+		    grid[x_][y_] = 1;
+		    result[x_][y_] = d + dist;
+		}
             }
-            cnt ++ ;
         }
-        return -1 ;
+        
+        if(result[m-1][n-1] == INT_MAX)
+            return -1;
+        
+        return result[m-1][n-1]+1;
+
     }
 };
