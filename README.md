@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
+| [2434-design-a-number-container-system](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 ## Shortest Path
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
@@ -159,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
