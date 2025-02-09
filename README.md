@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2448-count-number-of-bad-pairs](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -129,17 +130,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
 |  |
 | ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Binary Search
 |  |
