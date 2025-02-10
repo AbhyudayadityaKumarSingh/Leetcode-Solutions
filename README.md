@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3447-clear-digits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Trie
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
