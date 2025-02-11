@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0542-01-matrix) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
