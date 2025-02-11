@@ -3,10 +3,10 @@ public:
     bool check(vector<int>& nums) {
         int n = nums.size() ;
         int cnt = 0 ;
-        if(nums[0] < nums[n-1]) cnt ++ ;
+        if(nums[0] < nums[n-1]) cnt +=1 ;
         for(int i=1;i<n;i++) {
-            if(nums[i] < nums[i-1]) cnt ++ ;
+            if(nums[i-1] > nums[i]) cnt +=1 ;
         }
-        return cnt <= 1 ;
+        return cnt <=1 ;
     }
 };
