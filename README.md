@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3447-clear-digits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3447-clear-digits) |
 ## Tree
@@ -179,5 +181,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
