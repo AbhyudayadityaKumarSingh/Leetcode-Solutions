@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
