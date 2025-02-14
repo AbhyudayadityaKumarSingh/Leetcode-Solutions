@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Data Stream
 |  |
@@ -248,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
