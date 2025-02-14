@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1364-tuple-with-same-product](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [1477-product-of-the-last-k-numbers](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -232,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
