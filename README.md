@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -261,5 +262,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
