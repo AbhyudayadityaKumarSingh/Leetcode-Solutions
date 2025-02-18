@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [1078-remove-outermost-parentheses](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3447-clear-digits) |
