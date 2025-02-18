@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3447-clear-digits) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [2032-largest-odd-number-in-string](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [2032-largest-odd-number-in-string](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Backtracking
 |  |
