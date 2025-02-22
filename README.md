@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0854-making-a-large-island](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1558-course-schedule-iv](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -226,10 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
