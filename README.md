@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0966-binary-subarrays-with-sum](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1073-number-of-enclaves](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1364-tuple-with-same-product](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0966-binary-subarrays-with-sum](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1160-letter-tile-possibilities](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Linked List
 |  |
@@ -331,4 +334,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0966-binary-subarrays-with-sum](https://github.com/AbhyudayadityaKumarSingh/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
